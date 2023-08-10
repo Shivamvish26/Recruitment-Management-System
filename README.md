@@ -2,6 +2,8 @@
 
 The Recruitment Management System is a project designed to manage a company's recruitment process and can be accessed online. Its purpose is to store, process, manage, and track all recruitment-related data for a single company. It also explains how job search engines work but is dedicated only to one company, while job search engines look at multiple companies that submit their job postings to their website.
 
+For run this project you need a Xampp or Wampp server.
+
 To establish a database connection, create a file named "recruitment_db" and import it.
 
 Snap Shots of the project:-
